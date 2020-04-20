@@ -3,6 +3,6 @@
 
     Usage:  Random Password Generator Project
 
-    Credits:  UNH Bootcamp, Bootatrap, Traversy Media, Lynn Boudreau, Student Coder 
+    Credits:  UNH Bootcamp, Bootrap, JavaScript Cheatsheet by Dave Allen, Traversy Media, Lynn Boudreau, Student Coder 
 
     Licenses: open source
